@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vitepress dev docs",
     "docs:build": "npx vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "vercel-build": "npx vitepress build docs"
   },
   "keywords": [],
   "author": "",
