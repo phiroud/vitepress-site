@@ -17,7 +17,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yourusername/vitepress-site' }
+      { icon: 'github', link: 'https://github.com/phiroud/vitepress-site' }
     ]
   }
 })
